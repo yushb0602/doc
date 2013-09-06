@@ -1,0 +1,7 @@
+* list sort 使用Lambda
+            List<A> list = new List<A>();
+            list.Sort((a, b) => a.name.CompareTo(b.name));
+* Array [] 的使用，foreach
+  String[] arr = new String[] {""};
+* 
+

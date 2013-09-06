@@ -1,0 +1,12 @@
+# effedtive STL iterator
+	void remove_if(_Pr1 _Pred)
+		{	// erase each element satisfying _Pr1
+		iterator _Last = end();
+		for (iterator _First = begin(); _First != _Last; )
+			if (_Pred(*_First))
+				_First = erase(_First);
+			else
+				++_First;
+		}
+
+# basic library   crossplatform unicode text file
