@@ -1,0 +1,9 @@
+* list sort ʹ��Lambda
+            List<A> list = new List<A>();
+            list.Sort((a, b) => a.name.CompareTo(b.name));
+* Array [] ��ʹ�ã�foreach
+  String[] arr = new String[] {""};
+* 
+
+aaa
+my 我的
