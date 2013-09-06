@@ -1,7 +1,9 @@
-* list sort 使用Lambda
+* list sort 使锟斤拷Lambda
             List<A> list = new List<A>();
             list.Sort((a, b) => a.name.CompareTo(b.name));
-* Array [] 的使用，foreach
+* Array [] 锟斤拷使锟矫ｏ拷foreach
   String[] arr = new String[] {""};
 * 
 
+aaa
+my 鎴戠殑
