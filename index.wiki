@@ -1,5 +1,14 @@
 ==to do==
-# use document C/C++ language
+# next month plan
+{{{
+	奥修书，静心
+	修道交流
+	问题原因分析：平台受阻？平衡的生活vs疯狂的生活？除道外专业目标
+
+	知识技能是对人威胁。引来争。“其不欲见贤”，人群中高谈 < 聊天式口气 <闭口不谈。
+	在柯达，
+}}}
+# done. use document C/C++ language
 #
 == daily checklist ==
 {{{
@@ -14,19 +23,33 @@
 *
 
 ==Gaol Setting==
-[[history{{{]]
-===2013.9.5，8pt===
+{{{
+一周总结：
+* 线索：书院qq记录清理，vim 正则替换-> C#工具 -> 与白云交流 
+*                       -> vim 工作中使用，wiki                      |   
+===2013.9.2-周一、周二，7pt===
+* vim regular express,  :\(\d\+\):\1
+* 视频见识到vim高手，table、foding使用
+===2013.9.4 9pt 周三===
+* 使用C/C++写书院论坛整理工具，失败
+* 使用C#，8小时，写论坛整理工具，
+===2013.9.5，8pt 周四===
 * practical vim. Portable
 * wiki
 * reStructuredText
 * folding
 * use git to trace, reStructureText
 
-}}}
-
-===2013.9.6===
+===2013.9.6 8pt 周五===
 * 1hr，Fix KC bug, 奇怪的bug，几个后会才发现。是审视的机会。
 * 1hr，portable app 打包，整理Python，DocUtility
+*
+
+}}}
+
+===2013.9.16 周一===
+*  
+*
 *
 
 == The source of creativity and power ==
@@ -36,6 +59,8 @@
 
 [[C#实践记录]]
 [[C_C++]]
+[[SoftwareDesign]]
+[[OpenSourceContribute]]
 
 == Decsion==
 * [[道100]] 是否去？
@@ -63,7 +88,7 @@
 # 利用wiki，reStructureText，发布文档
 # 可以使用git 控制文本，跟踪修改
 
-%%}}}
+[[%%}}}]]
 
 == 道德经记录=={{{
 刘安洪：
