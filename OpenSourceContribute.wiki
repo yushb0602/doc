@@ -1,0 +1,12 @@
+
+==C++ crossplatform library==
+assumptions
+* should be portable
+* ansi,unicode, utf8
+* write in c++ 
+
+Interface Design 
+- implment the window version, first
+- unix-like version
+- 
+
