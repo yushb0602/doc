@@ -1,4 +1,5 @@
 # effedtive STL iterator
+{{{
 	void remove_if(_Pr1 _Pred)
 		{	// erase each element satisfying _Pr1
 		iterator _Last = end();
@@ -8,5 +9,5 @@
 			else
 				++_First;
 		}
-
+  }}}
 # basic library   crossplatform unicode text file

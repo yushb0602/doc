@@ -1,0 +1,7 @@
+# deligation
+
+# lambda 
+ list.FindAll(Predicate<T> a);是个deligate,最终函数
+ list.FindAll(i => i%2==0);
+ multi-parameters lamda
+ (string msg, int result) => console.WriteLine("{0}, {1}", msg,result);
