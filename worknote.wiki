@@ -1,0 +1,9 @@
+
+
+We could handle the 
+
+areaImage.CopyToClipboardAsDDB(this)
+pImage->CopyToClipboardAsDDB(this);
+pImage->CopyToClipboardAsDIB(this);
+reaImage.CopyToClipboardAsDIB(this);
+

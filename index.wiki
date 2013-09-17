@@ -1,3 +1,4 @@
+
 ==to do==
 # next month plan
 {{{
@@ -48,7 +49,11 @@
 }}}
 
 ===2013.9.16 周一===
-*  
+* analyze Copy&Paste, round#1, 5hrs
+* 购买电池，送卡给老师
+===2013.9.17 周二===
+* analyze Copy&Paste, round#2 4hrs
+* http://code.csdn.net 公司网络不能用，手机可用
 *
 *
 
@@ -56,15 +61,16 @@
 * 激发隐藏的能量，去体会。
 * 心上，只有一件事。其他事情不在脑中，无负担分神
 
-
+[[奥修笔记]]
+[[草原游记]]
 [[C#实践记录]]
 [[C_C++]]
 [[SoftwareDesign]]
 [[OpenSourceContribute]]
-
+[[worknote]]
 == Decsion==
 * [[道100]] 是否去？
-*
+[[论坛笔记]]
 
 ===使用vim写作的意义===%%{{{
 * vim可快速替换查找，还编程整理，半自动化的编辑
