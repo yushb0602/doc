@@ -45,8 +45,9 @@
 * 1hr，Fix KC bug, 奇怪的bug，几个后会才发现。是审视的机会。
 * 1hr，portable app 打包，整理Python，DocUtility
 *
-
-}}}
+-------------------------------------
+一周总结：
+坝上旅游回来，工作三天
 
 ===2013.9.16 周一===
 * analyze Copy&Paste, round#1, 5hrs
@@ -55,12 +56,28 @@
 * analyze Copy&Paste, round#2 4hrs
 * http://code.csdn.net 公司网络不能用，手机可用
 *
+===2013.9.18 周三 ===
+* fix Alfresco crash, reinstall os, environment, 5hrs
+}}}
+===2013.9.22 周日===
+* fix LZW compressed bug, 4hrs
+* 口身意业体验。
 *
+
+===2013.9.23 周一===
+* investigate Index plugin, 6hrs， vs2013 failure.
+
+===2013.9.24 周二===
+* try to recreate the Index plugin, but fail.
+* download osho ebooks,english version
+
 
 == The source of creativity and power ==
 * 激发隐藏的能量，去体会。
 * 心上，只有一件事。其他事情不在脑中，无负担分神
 
+[[问题成长]]
+[[10年要做的事情]]
 [[道德经与生活心得]]
 [[奥修笔记]]
 [[草原游记]]
